@@ -183,7 +183,7 @@ header nav .form i {
 /* End Header */
 /* Start Landing */
 .landing {
-    background-image: url(/images/landing.jpg);
+    background-image: url("../images/landing.jpg");
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -270,7 +270,7 @@ header nav .form i {
 /* Strat Design */
 .design {
     height: 600px;
-    background-image: url(../images/design-section.jpg);
+    background-image: url("../images/design-section.jpg");
     background-size: cover;
     position: relative;
     display: flex;
@@ -652,7 +652,7 @@ header nav .form i {
 /* End Skills */
 /* Start Quote */
 .quote {
-    background-image: url("/images/quote.jpg");
+    background-image: url("../images/quote.jpg");
     background-size: cover;
     position: relative;
 }
@@ -781,7 +781,7 @@ q::after {
 /* End Pricing */
 /* Start Subscribe */
 .subscribe {
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
@@ -928,7 +928,7 @@ q::after {
   /* End Contact */
   /* Start Footer  */
   .footer {
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
   }
